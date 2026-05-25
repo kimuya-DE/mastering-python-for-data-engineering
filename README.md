@@ -10,17 +10,17 @@ Engineering role.
 
 ### 🎓 Duke University — Python, Bash and SQL Essentials for Data Engineering
 **Course 1:** Python & Pandas for Data Engineering
-- Module 1: Getting Started with Python 🟡
+- Module 1: Getting Started with Python ✅
 - Module 2: Essential Python 🟡
 
 ### 🎓 University of Michigan — Python for Everybody Specialization
 **Course 1:** Getting Started with Python
 - Module 1: Why We Program ✅
 - Module 1.2: Installing Python ✅
-- Module 2: Variables and Expressions 🟡
-- Module 3: Conditional Code 🟡
-- Module 4: Functions 🟡
-- Module 5: Loops and Iteration 🟡
+- Module 2: Variables and Expressions ✅
+- Module 3: Conditional Code ✅
+- Module 4: Functions ✅
+- Module 5: Loops and Iteration ✅
 
 ### 🎓 IBM — Data Engineering Professional Certificate
 **Course 2:** Python for Data Science, AI & Development
